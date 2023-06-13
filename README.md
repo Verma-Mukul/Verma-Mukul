@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Mukul Verma<br>🌱 I’m currently learning Python<br>🔭 I'm interested in PC Building<br>📭 Reach me at mukulv8745@gmail.com
+# 👋 Hi, I'm Mukul Verma<br>
+🌱 I’m currently learning Python<br>🔭 I'm interested in PC Building<br>📭 Reach me at mukulv8745@gmail.com
 
 
 ## 🌐 Socials:
